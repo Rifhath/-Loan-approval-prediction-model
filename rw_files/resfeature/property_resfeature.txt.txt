@@ -1,0 +1,5 @@
+ApplicantIncome
+CoapplicantIncome
+LoanAmount
+Loan_Amount_Term
+Credit_History
