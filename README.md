@@ -45,12 +45,6 @@ These models are unified using a **voting classifier** to provide robust and acc
 
 ---
 
-## Installation and Usage
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Rifhath/A-LAP.git
-   cd A-LAP
 
 ## Achievements
 
