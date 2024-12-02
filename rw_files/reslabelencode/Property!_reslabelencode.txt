@@ -1,0 +1,6 @@
+Gender
+Married
+Dependents
+Education
+Self_Employed
+Property_Area
