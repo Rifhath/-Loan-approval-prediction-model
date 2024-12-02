@@ -1,0 +1,7 @@
+Gender
+Married
+Dependents
+Education
+Self_Employed
+Property_Area
+Loan_Status
